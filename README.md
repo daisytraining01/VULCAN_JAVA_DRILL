@@ -4,11 +4,11 @@
 
 
 
-Coaches : Krishna Prasad, Goutham
-Guide : Prabha, Captain : Kevin
+### Coaches : Krishna Prasad, Goutham
+### Guide : Prabha, Captain : Kevin
 
 
-Team Members:     
+### Team Members:     
     Surya Mahalakshmi
     Shambhu
     Sunil
@@ -20,14 +20,18 @@ Team Members:     
 
 
 
-Flow of User
+### Flow of the User:
+
 ![alt text](https://github.com/daisytraining01/VULCAN_JAVA_DRILL/blob/master/FlowofUser.PNG)
 
-Model
+### Model:
+
 ![alt text](https://github.com/daisytraining01/VULCAN_JAVA_DRILL/blob/master/Model.PNG)
 
-Execution:
+### Execution:
+
 Please use java -jar VulcanTent_GroupActivity.jar
 
-Output
+### Output:
+
 ![alt text](https://github.com/daisytraining01/VULCAN_JAVA_DRILL/blob/master/Output.PNG)
