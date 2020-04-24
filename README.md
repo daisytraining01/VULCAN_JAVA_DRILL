@@ -1,8 +1,7 @@
 # VULCAN_JAVA_DRILL
 
-TOGETHER FOR LEARNING QUEST...!!
+## Vulcan : TOGETHER FOR LEARNING QUEST...!!
 
-[![Vulcan :TOGETHER FOR LEARNING QUEST...!!]<br />
 
 
 Coaches : Krishna Prasad, Goutham
@@ -22,13 +21,13 @@ Team Members:     
 
 
 Flow of User
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/daisytraining01/VULCAN_JAVA_DRILL/blob/master/FlowofUser.PNG)
 
 Model
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/daisytraining01/VULCAN_JAVA_DRILL/blob/master/Model.PNG)
 
 Execution:
 Please use java -jar VulcanTent_GroupActivity.jar
 
 Output
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/daisytraining01/VULCAN_JAVA_DRILL/blob/master/Output.PNG)
